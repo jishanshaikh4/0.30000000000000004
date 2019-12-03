@@ -24,3 +24,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Readme.md
+
+theme: jekyll-theme-cayman
